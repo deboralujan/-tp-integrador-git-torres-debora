@@ -4,7 +4,7 @@
 - Nombre y apellido: Débora Torres
 - Curso: Introducción a Git y GitHub para la Gestión de Proyectos Digitales
 - Fecha de entrega:
-
+05/11/2026
 ## Enlaces
 - Repositorio de GitHub:
 - Issue:
