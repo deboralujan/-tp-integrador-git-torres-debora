@@ -1,10 +1,10 @@
-# TP FINAL CURSO GIT Y GIT HUB
+#Trabajo Práctico Integrador de Git y GitHub 
 
 ## Descripción
-curso dictado por el nodo tecnologico.
+Este repositorio contiene una landing page sencilla creada con HTML y CSS. El proyecto fue desarrollado como trabajo práctico integrador del curso Introducción a Git y GitHub para la Gestión de Proyectos Digitales. La página es simple a propósito, porque lo importante es practicar el uso de Git y GitHub..
 
 ## Objetivo
-Aplicar de manera integrada los conceptos y comandos básicos de Git y GitHub mediante la creación, versionado, publicación y documentación de un repositorio digital.
+Aplicar de manera integrada los conceptos del curso: crear un repositorio local, registrar cambios mediante commits, trabajar con ramas, publicar el proyecto en GitHub, crear una issue y una pull request, y documentar el trabajo.
 
 ## Estructura del repositorio
 - README.md: descripción del proyecto.
@@ -15,4 +15,4 @@ Aplicar de manera integrada los conceptos y comandos básicos de Git y GitHub me
 Débora Torres
 
 ## Estado del proyecto
-En desarrollo
+En revisión final
